@@ -42,7 +42,7 @@ Salut, je suis un développeur un peu fou. Je passe mes journées à coder, à d
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=micuit-cuit&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Anurag's GitHub stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micuit-cuit&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@1fccc193-cec0-4b30-9a84-e4c470bddb1d&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Harlok's WakaTime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@micuitcuit&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Harlok's WakaTime stats">
 </div>
 
 ## Contact
