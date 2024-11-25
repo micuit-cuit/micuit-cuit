@@ -1,7 +1,8 @@
 # Bienvenue sur mon profil GitHub ! 👋
 Salut, je suis un développeur un peu fou. Je passe mes journées à coder, à débugger et à améliorer des trucs. Si vous voulez me trouver, je suis probablement en train de parler tout seul en cherchant une solution à un problème. Mais ne vous inquiétez pas, j'ai une passion pour les chats ! 
-## Projets récents
+<!--
 
+## Projets récents
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <div style="margin-bottom: 10px;">
     <a href="https://github.com/micuit-cuit/rnvs" style="text-decoration: none; color:lime;">
@@ -23,7 +24,7 @@ Salut, je suis un développeur un peu fou. Je passe mes journées à coder, à d
     </a>
   </div>
 </div>
-
+-->
 ## Compétences
 
 <div align="center"> 
